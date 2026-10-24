@@ -1,0 +1,10 @@
+# data is large and not redistributed here
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/.gitkeep
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
